@@ -1,3 +1,5 @@
+# 说明
+从0开始详细介绍如何利用code-generator等工具构建CustomResource
 # 步骤
 * 下载k8s源码(code-generator,kubernetes等)代码
 * 设置GOPATH
